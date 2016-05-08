@@ -1,4 +1,6 @@
 h1 {
   background-color: #ffc215;
   color: green;
-  text-align: right; }
+  text-align: right;
+  border-bottom-color: #ffc215;
+  border-bottom-right-radius: 5px; }
