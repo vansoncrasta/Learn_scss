@@ -1,11 +1,11 @@
 h1{
   background-color: #ffc215;
-  color: green;
+  color: #123180;
   text-align: right;
   border-bottom-color: #ffc215;
   @if (1==2) {
     border-top-color: #880000;
   }@else if(5==5){
-    border-bottom-right-radius: 5px;
+    border-bottom-right-radius: 12px;
   }
 }
